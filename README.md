@@ -7,5 +7,5 @@ these are Colors, Family, Numbers And Phrases
 
 ## Some Screenshot of the project running on an emulator
 
-![](img/Miwok1.jpg)
-![](img/Miwok2.jpg)
+![](img/Miwok1.png)
+![](img/Miwok2.png)
